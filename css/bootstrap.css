@@ -2087,6 +2087,7 @@ pre code {
     float: left;
   }
   .col-lg-12 {
+    padding-top: 150px;
     width: 100%;
   }
   .col-lg-11 {

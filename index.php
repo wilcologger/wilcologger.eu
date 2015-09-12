@@ -66,11 +66,10 @@
                     <span class="name">Wilco Logger</span>
                     <hr class="star-light">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-                        Aenean massa. Cum sociis natoque penatibus et
+                        
                     </p>
                         <span class="skills">
-                            HTML - CSS - Bootstrap
+                            Front-end & web developer
                         </span>
                 </div>
             </div>

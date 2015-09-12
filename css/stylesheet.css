@@ -133,7 +133,7 @@ header .intro-text .skills {
 @media (min-width: 768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
+        padding-bottom: 425px;
     }
     header .intro-text .name {
         font-size: 4.75em;
@@ -154,14 +154,14 @@ hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
-    max-width: 280px;
+    max-width: 575px;
     border: 0;
     border-top: solid 5px;
     text-align: center;
 }
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    /*content: "\f005";*/
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -195,6 +195,8 @@ section h2 {
         padding-top: 75px;
     }
 }
+
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
