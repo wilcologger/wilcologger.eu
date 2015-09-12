@@ -1,4 +1,4 @@
-# portfolio-3
+# wilcologger.eu
 Mijn eerste online portfolio
 
 ## HTML - CSS - Bootstrap
